@@ -1,0 +1,9 @@
+/.vscode
+
+# Configs for test
+/vsm.config
+
+# Build output
+/build
+/dist
+/output
