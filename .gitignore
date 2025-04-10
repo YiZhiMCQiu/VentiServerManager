@@ -1,7 +1,7 @@
 /.vscode
 
 # Configs for test
-/vsm.config
+/vsm.cfg
 
 # Build output
 /build
